@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Clipwin
+Comment=Windows-style clipboard history popup
+Exec=clipwin-popup
+Icon=edit-paste-symbolic
+Terminal=false
+NoDisplay=true
+X-GNOME-Autostart-enabled=false
